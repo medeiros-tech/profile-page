@@ -79,12 +79,6 @@ a:hover {
     text-decoration: underline;
 }
 
-.copyright {
-    color: #FFF;
-    font-size: 0.75rem;
-    padding: 20px 0;
-}
-
 .celebro-tech-cima {
     position: absolute;
     right: 20%;
@@ -123,7 +117,7 @@ a:hover {
 
 .bottom-container {
     background-color: #14274e;
-    padding: 50px 0 20px;
+    padding: 30px 0 30px;
 }
 
 .btn {
