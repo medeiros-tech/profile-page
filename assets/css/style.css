@@ -117,7 +117,8 @@ a:hover {
 
 .bottom-container {
     background-color: #14274e;
-    padding: 30px 0 30px;
+    padding: 50% 0 50%;
+    text-align: center;
 }
 
 .btn {
